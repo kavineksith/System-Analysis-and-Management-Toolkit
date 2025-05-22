@@ -149,13 +149,13 @@ The tool provides comprehensive error handling with:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
 This software is provided "as is" without warranty of any kind, express or implied. The authors are not responsible for any legal implications of generated license files or repository management actions.  **This is a personal project intended for educational purposes. The developer makes no guarantees about the reliability or security of this software. Use at your own risk.**
 
-## Disclaimer (Sumarized)
+## Disclaimer (Summarized)
 
 This software is provided as-is without any warranties. The developers are not responsible for:
 - Any misuse of this software
